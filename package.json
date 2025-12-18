@@ -1,0 +1,25 @@
+{
+  "name": "useless-github-action",
+  "version": "1.0.0",
+  "description": "Just a playground for github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kardelio/useless-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kardelio/useless-github-action/issues"
+  },
+  "homepage": "https://github.com/Kardelio/useless-github-action#readme",
+  "dependencies": {
+    "@actions/core": "^2.0.1",
+    "@actions/exec": "^2.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+---
+name: Useless action
+description: Does something i guess
+inputs:
+  version-type:
+    description: blah
+    required: true
+    default: patch
+outputs:
+  new-version:
+    description: ghjkhghj
+runs:
+  using: node12
+  main: action/index.js
